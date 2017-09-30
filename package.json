@@ -20,12 +20,12 @@
   "devDependencies": {
     "commitizen": "^2.9.6",
     "conventional-changelog": "^1.1.5",
-    "cz-lerna-changelog": "^1.2.1",
+    "cz-conventional-changelog": "^2.0.0",
     "lerna": "^2.2.0"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-lerna-changelog"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
